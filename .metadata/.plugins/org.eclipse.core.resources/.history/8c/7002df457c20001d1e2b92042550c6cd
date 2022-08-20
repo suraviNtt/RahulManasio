@@ -1,0 +1,19 @@
+package conditionalOperations;
+
+public class A {
+
+	public static void main(String[] args) {
+		
+		int a=50, b=20 , sum ;
+		String s = "Hello";
+		
+		System.out.println(s);
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(a+b);
+		System.out.println(s+b);
+		System.out.println(s+a);
+		System.out.println("Hello");
+		
+	}
+}
