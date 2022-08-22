@@ -23,3 +23,19 @@ public class F {
  * .....
  * 12*10= 120
  */
+
+/*
+ * 			1111
+ *			111
+ *			11
+ *			1
+ */
+
+/**
+ * print sum of digits of a number
+ * 
+ * input =123
+ * (1+2+3 = 6)
+ * output = 6
+ * 
+ */
