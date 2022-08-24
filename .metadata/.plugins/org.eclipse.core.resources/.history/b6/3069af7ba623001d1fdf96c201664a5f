@@ -1,0 +1,20 @@
+package conditionalOperations;
+
+import oppsBasic.A2;
+
+public class J extends A2 {
+
+public static void main(String[] args) {
+		
+		int i = 2;
+		if(i%2 == 0 && i <2 || i%3 ==0) {
+			System.out.println("Success");
+		}else {
+			System.out.println("Failure");
+		}
+		
+		J j = new J();
+		j.test1();
+		System.out.println(j.p);
+	}
+}

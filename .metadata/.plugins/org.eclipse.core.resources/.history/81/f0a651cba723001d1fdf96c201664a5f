@@ -1,0 +1,11 @@
+package oppsBasic;
+
+public class A extends A1{
+
+	public int i = 10;
+
+	public void test() {
+		System.out.println("Public method");
+	}
+
+}

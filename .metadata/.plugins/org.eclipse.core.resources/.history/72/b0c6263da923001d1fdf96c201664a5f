@@ -1,0 +1,17 @@
+package oppsBasic;
+
+public class A{
+
+	public int i = 10;
+
+	public void test() {
+		System.out.println("Public method");
+	}
+	
+	public static void main(String[] args) {
+		
+		A a = new A();
+		a.test();
+	}
+
+}

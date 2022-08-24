@@ -1,6 +1,8 @@
 package conditionalOperations;
 
-public class I {
+import oppsBasic.A2;
+import oppsBasic.A;
+public class I extends A2{
 
 	public static void main(String[] args) {
 		
@@ -10,5 +12,16 @@ public class I {
 		}else {
 			System.out.println("Failure");
 		}
+		
+		
+		I iObj = new I();
+		iObj.test2();
+		
+		A a = new A();
+		a.test();
+		System.out.println(a.i);
+		
+		
 	}
+	
 }

@@ -1,0 +1,11 @@
+package oppsBasic;
+
+public class A1 {
+
+	
+	protected int p = 90;
+	
+	protected void test1() {
+		System.out.println("Protected Method");
+	}
+}

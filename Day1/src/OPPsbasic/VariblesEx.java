@@ -1,4 +1,4 @@
-package OPPsbasic;
+package oppsBasic;
 
 public class VariblesEx {
 	
